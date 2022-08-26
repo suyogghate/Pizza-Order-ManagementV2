@@ -1,0 +1,2 @@
+# Pizza-Order-ManagementV2
+This is a second version of pizza order status project in which when we order a pizza, the status of our order is shown like uptill which state our pizza is in. We can also order multiple pizza here. The concept used here is promises and promise chaining in which one thing is executed after another with the help of setTimeout concept. As soon as you write your order no. and press execute, a new order gets created with order details, the status of your pizza is shown in green color.
